@@ -1,6 +1,6 @@
 # 💫 About Me:
 Welcome to my profile! I'm a beginner web developer passionate about creating engaging and interactive web experiences. 
-'m dedicated to learning and growing as a web developer. I enjoy working with HTML, CSS, and JavaScript to bring ideas to life on the web. My goal is to become proficient in front-end development and eventually explore back-end technologies.
+I'm dedicated to learning and growing as a web developer. I enjoy working with HTML, CSS, and JavaScript to bring ideas to life on the web. My goal is to become proficient in front-end development and eventually explore back-end technologies.
 # 🛠️ Skills:
 Here are some of the key skills I'm currently focusing on:
 
