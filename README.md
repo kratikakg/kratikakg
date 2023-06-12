@@ -11,7 +11,7 @@ Here are some of the key skills I'm currently focusing on:
 <b>JavaScript</b>: I'm actively learning JavaScript and working on building interactive elements and functionality into my projects. I'm excited to explore frameworks and libraries like React.js in the future.
 
 <b>Responsive Design</b>: I'm committed to creating websites that look great and function well on different devices and screen sizes. I strive to make my projects responsive and accessible to a wide range of users.
-# Learning Journey:
+# 📖 Learning Journey:
 I believe in continuous learning and improvement. Here's how I'm honing my web development skills:
 
 <b>Online Courses</b>: I'm taking online courses and tutorials to deepen my understanding of web development concepts and best practices.
