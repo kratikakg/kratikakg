@@ -16,7 +16,7 @@ I believe in continuous learning and improvement. Here's how I'm honing my web d
 
 <b>Online Courses</b>: I'm taking online courses and tutorials to deepen my understanding of web development concepts and best practices.
 
-<b>Projects</b>: I'm actively working on personal projects to apply what I learn and gain hands-on experience.
+<b>Projects</b>: I'm actively working on personal projects to apply what I learn and gain hands-on experience. 
  
 <b>Community</b>: I have been participating in web development communities and forums to connect with other developers, share knowledge, and learn from their experiences.
 # 💻 Tech Stack:
