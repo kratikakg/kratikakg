@@ -18,6 +18,13 @@ Here are some of the key skills I'm currently focusing on:
 
 <b>Tailwind CSS</b>: I'm exploring Tailwind CSS to streamline my styling process. I appreciate how Tailwind's utility-first approach helps in quickly building modern and responsive designs.
 
+# 🚀 Learning Goals:
+I'm currently focusing on learning more about:
+- Advanced React.js concepts
+- Backend development with Node.js and Express
+- Integrating Firebase services
+- Working with MongoDB for database management
+
 # 📖 Learning Journey:
 I believe in continuous learning and improvement. Here's how I'm honing my web development skills:
 
