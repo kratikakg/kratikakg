@@ -6,22 +6,22 @@
 🎨 Bringing ideas to life on the web with React and Tailwind is my jam!
 
 # 🌈 What I Love Working With:
-👾 HTML: Crafting the backbone of beautiful web pages. 🛠️
-🎨 CSS: Adding the flair and personality to make websites pop. 💅
-🤹‍♂️ JavaScript: Making the web come alive with interactive magic. 🎩✨
-⚛️ React.js: Building dynamic UIs one component at a time. (React and I are just getting started, but it’s a love story in the making. 💙)
-🎀 Tailwind CSS: Styling at warp speed with a sprinkle of creativity. 🚀🎨
-🐍 Python: My go-to for scripting, backend magic, and exploring data-driven ideas.
-🌐 Flask: A lightweight, yet powerful framework for building amazing web apps.
+- 👾 HTML: Crafting the backbone of beautiful web pages. 🛠️
+- 🎨 CSS: Adding the flair and personality to make websites pop. 💅
+- 🤹‍♂️ JavaScript: Making the web come alive with interactive magic. 🎩✨
+- ⚛️ React.js: Building dynamic UIs one component at a time. (React and I are just getting started, but it’s a love story in the making. 💙)
+- 🎀 Tailwind CSS: Styling at warp speed with a sprinkle of creativity. 🚀🎨
+- 🐍 Python: My go-to for scripting, backend magic, and exploring data-driven ideas.
+- 🌐 Flask: A lightweight, yet powerful framework for building amazing web apps.
 
-#🛠️ My Toolkit:
+# 🛠️ My Toolkit:
 Here’s what I’m currently sharpening my skills in:
-✨ Responsive Design: Ensuring everything looks fab, whether you're on a phone, tablet, or desktop.
-📈 React.js: Learning how to make super smooth and reusable components.
-⚡ Tailwind CSS: Making the design process a breeze (and a delight!).
-🐍 Python & Flask: Combining clean code and efficient frameworks to build seamless backends.
-🌐 Firebase: Dipping my toes into authentication and database magic.
-🗄️ MongoDB: Getting familiar with organizing and managing data.
+- ✨ Responsive Design: Ensuring everything looks fab, whether you're on a phone, tablet, or desktop.
+- 📈 React.js: Learning how to make super smooth and reusable components.
+- ⚡ Tailwind CSS: Making the design process a breeze (and a delight!).
+- 🐍 Python & Flask: Combining clean code and efficient frameworks to build seamless backends.
+- 🌐 Firebase: Dipping my toes into authentication and database magic.
+- 🗄️ MongoDB: Getting familiar with organizing and managing data.
 
 # 🚀 Learning Goals:
 - 📚 Leveling up my React.js knowledge with advanced concepts.
