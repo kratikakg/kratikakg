@@ -14,39 +14,34 @@ I love building clean UIs, scalable APIs, and learning new tools along the way.
 - 🎀 Tailwind CSS: Styling at warp speed with a sprinkle of creativity. 🚀🎨
 - 🐍 Python: My go-to for scripting, backend magic, and exploring data-driven ideas. 🧪
 - 🌐 Flask: A lightweight, yet powerful framework for building amazing web apps. 🔥
-- 🌲 **Node.js** — Writing scalable server-side code in JavaScript. 🌍  
-- 🛤️ **Express.js** — Streamlining backend routes with minimal fuss. ✨  
-- 🍃 **MongoDB** — Flexible and fast NoSQL magic for dynamic data. 📦  
-- 🐬 **MySQL** — Trusted relational database for structured, dependable data. 🗃️
+- 🌲 Node.js — Writing scalable server-side code in JavaScript. 🌍  
+- 🛤️ Express.js — Streamlining backend routes with minimal work. ✨  
+- 🍃 MongoDB — Flexible and fast NoSQL magic for dynamic data. 📦  
+- 🐬 MySQL — Trusted relational database for structured, dependable data. 🗃️
 
-# 🛠️ My Toolkit:
+# 🛠️ Learning Goals:
 Here’s what I’m currently sharpening my skills in:
-- ✨ Responsive Design: Ensuring everything looks fab, whether you're on a phone, tablet, or desktop.
-- 📈 React.js: Learning how to make super smooth and reusable components.
-- ⚡ Tailwind CSS: Making the design process a breeze (and a delight!).
-- 🐍 Python & Flask: Combining clean code and efficient frameworks to build seamless backends.
-- 🌐 Firebase: Dipping my toes into authentication and database magic.
-- 🗄️ MongoDB: Getting familiar with organizing and managing data.
-
-# 🚀 Learning Goals:
-- 📚 Leveling up my React.js knowledge with advanced concepts.
-- 🤝 Exploring backend development with Node.js and Express.
-- 🔗 Integrating exciting Firebase services into my projects.
-- 📊 Becoming proficient in MongoDB for seamless database management.
-- 🚀 Strengthening my skills in Flask for backend development.
+- 🌐 Node.js & Express.js — Building scalable and modular backend APIs with JavaScript power.  
+- 🐳 Docker — Containerizing apps for smoother deployments and dev environments.  
+- ⚙️ CI/CD (GitHub Actions) — Automating build, test, and deploy pipelines for cleaner workflows.  
+- ☁️ AWS (EC2, S3, Lambda) — Exploring cloud basics for hosting and scaling apps.  
+- 🧠 Machine Learning Basics — Getting started with ML concepts using Python + scikit-learn.  
+- 📊 System Design — Learning how to architect reliable, scalable systems from scratch.  
+- 🧪 Testing & Debugging — Writing cleaner, testable code with tools like Postman, pytest, and more.  
 
 # 🛤️ My Learning Journey:
-- 💻 Online Courses: Chasing knowledge through interactive tutorials and lessons.
+- 💻 Online Courses: Chasing knowledge through interactive lessons and hands-on tutorials. 
 - 🛠️ Projects: Turning ideas into code and building cool stuff along the way.
-- 👨‍💻 Community: Connecting with fellow web dev enthusiasts to learn, grow, and share!
+- 👨‍💻 Community: Connecting with fellow devs to learn, grow, and share good vibes. 
 
 # 🎉 Fun Facts About Me!
-- 🌟 I think coding is a superpower, and I'm still unlocking my powers.
-- 📺 I geek out over web design inspirations (Pinterest is my happy place 🎨).
-- 🎮 When I'm not coding, I’m either playing games or binge-watching sci-fi.
+- 🌟 I believe coding is a superpower — and I’m still unlocking mine one line at a time.
+- 📺 I geek out over web design inspo (Pinterest is my happy place).
+- 🎮 When I’m not coding, I’m probably gaming, watching sci-fi, or both at once.  
 
 # 📬 Let’s Connect:
-🌐 Let’s chat about code, ideas, or anything fun! Reach out, and let's build something awesome together.
+🌐 Always down to chat about code, ideas, or anything fun!  
+Let’s build something awesome together. 🤝💡 
 
 ---
 [![](https://visitcount.itsvg.in/api?id=kratikakg&icon=2&color=5)](https://visitcount.itsvg.in)
