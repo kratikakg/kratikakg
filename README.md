@@ -1,7 +1,8 @@
 # 💫 About Me:
-🌟 Hey there! I'm a budding Web Developer passionate about crafting delightful and engaging web experiences. I love diving into the world of code, where creativity meets logic!
+🌟 Hey there! I'm a Web Developer passionate about crafting delightful and engaging web experiences. I love diving into the world of code, where creativity meets logic!
 
-🚀 I'm on a journey to master front-end development and can't wait to explore the exciting world of back-end technologies as well.
+💻 I'm a full-stack developer who enjoys working on both front-end and back-end projects.
+I love building clean UIs, scalable APIs, and learning new tools along the way.
 
 🎨 Bringing ideas to life on the web with React and Tailwind is my jam!
 
@@ -9,10 +10,14 @@
 - 👾 HTML: Crafting the backbone of beautiful web pages. 🛠️
 - 🎨 CSS: Adding the flair and personality to make websites pop. 💅
 - 🤹‍♂️ JavaScript: Making the web come alive with interactive magic. 🎩✨
-- ⚛️ React.js: Building dynamic UIs one component at a time. (React and I are just getting started, but it’s a love story in the making. 💙)
+- ⚛️ React.js: Building dynamic UIs one component at a time. 🧩
 - 🎀 Tailwind CSS: Styling at warp speed with a sprinkle of creativity. 🚀🎨
-- 🐍 Python: My go-to for scripting, backend magic, and exploring data-driven ideas.
-- 🌐 Flask: A lightweight, yet powerful framework for building amazing web apps.
+- 🐍 Python: My go-to for scripting, backend magic, and exploring data-driven ideas. 🧪
+- 🌐 Flask: A lightweight, yet powerful framework for building amazing web apps. 🔥
+- 🌲 **Node.js** — Writing scalable server-side code in JavaScript. 🌍  
+- 🛤️ **Express.js** — Streamlining backend routes with minimal fuss. ✨  
+- 🍃 **MongoDB** — Flexible and fast NoSQL magic for dynamic data. 📦  
+- 🐬 **MySQL** — Trusted relational database for structured, dependable data. 🗃️
 
 # 🛠️ My Toolkit:
 Here’s what I’m currently sharpening my skills in:
