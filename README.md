@@ -19,21 +19,6 @@ I love building clean UIs, scalable APIs, and learning new tools along the way.
 - 🍃 MongoDB — Flexible and fast NoSQL magic for dynamic data. 📦  
 - 🐬 MySQL — Trusted relational database for structured, dependable data. 🗃️
 
-# 🛠️ Learning Goals:
-Here’s what I’m currently sharpening my skills in:
-- 🌐 Node.js & Express.js — Building scalable and modular backend APIs with JavaScript power.  
-- 🐳 Docker — Containerizing apps for smoother deployments and dev environments.  
-- ⚙️ CI/CD (GitHub Actions) — Automating build, test, and deploy pipelines for cleaner workflows.  
-- ☁️ AWS (EC2, S3, Lambda) — Exploring cloud basics for hosting and scaling apps.  
-- 🧠 Machine Learning Basics — Getting started with ML concepts using Python + scikit-learn.  
-- 📊 System Design — Learning how to architect reliable, scalable systems from scratch.  
-- 🧪 Testing & Debugging — Writing cleaner, testable code with tools like Postman, pytest, and more.  
-
-# 🛤️ My Learning Journey:
-- 💻 Online Courses: Chasing knowledge through interactive lessons and hands-on tutorials. 
-- 🛠️ Projects: Turning ideas into code and building cool stuff along the way.
-- 👨‍💻 Community: Connecting with fellow devs to learn, grow, and share good vibes. 
-
 # 🎉 Fun Facts About Me!
 - 🌟 I believe coding is a superpower — and I’m still unlocking mine one line at a time.
 - 📺 I geek out over web design inspo (Pinterest is my happy place).
